@@ -1,3 +1,3 @@
- # Support or Contact
- 
- E-mail: sadyryn@icloud.com
+ ### Support or Contact
+
+ E-mail: [sadyryn@icloud.com](mailto:sadyryn@icloud.com)
