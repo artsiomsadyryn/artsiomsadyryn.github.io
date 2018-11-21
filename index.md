@@ -1,6 +1,5 @@
 ### Support or Contact
 
-- E-mail: [artsiomsadyryn@gmail.com](mailto:artsiomsadyryn@gmail.com)
-- GitHub: [artyomsadyrin](https://github.com/artsiomsadyryn)
-- Facebook: [ArtyomSadyrin](https://www.facebook.com/ArtyomSadyrin)
+- E-mail: [asadyryn@icloud.com](mailto:asadyryn@icloud.com)
+- GitHub: [artyomsadyrin](https://github.com/artyomsadyrin)
 - LinkedIn: [artyomsadyrin](https://www.linkedin.com/in/artyomsadyrin)
